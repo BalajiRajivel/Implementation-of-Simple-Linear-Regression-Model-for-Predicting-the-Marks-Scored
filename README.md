@@ -68,6 +68,7 @@ print("RMSE= ",rmse)
 ## Output:
 ![TRANING](https://github.com/BalajiRajivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/103949835/8a9085aa-4227-48d8-bff6-268cd5023683)
 
+![TEST](https://github.com/BalajiRajivel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/103949835/8a95ae1d-0b32-467e-b0e7-ebd001a45f75)
 
 
 ## Result:
